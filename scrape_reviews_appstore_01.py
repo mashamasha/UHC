@@ -1,5 +1,5 @@
-import os
 import json
+import os
 import requests
 import xmltodict
 
@@ -20,9 +20,9 @@ def fetch_reviews(app_id, country = 'us', sortBy = 'mostRecent', page = 1):
                                                                                            sortBy,
                                                                                            str(page))
     r = requests.get(url)
-    reviews_dict = xmltodict.parse(r.text)
-    
-    try:  # If there are no reviews on this page, return empty list
+
+    try:  # If there are no reviews on this page or is a broken xml, return empty list
+        reviews_dict = xmltodict.parse(r.text)
         reviews_list = reviews_dict['feed']['entry']
     except:
         return []
@@ -63,6 +63,7 @@ if __name__ == "__main__":
                     'currentVersionReleaseDate': app['currentVersionReleaseDate'],
                     'description': app['description'].replace('\n', ' ')
                     }
+        print(app_data['name'])
         
         # Get most recent and most helpful reviews (separately) for app (up to 500)
         # NOTE: If the app does not have many reviews, the same reviews may be included in both recent
@@ -70,6 +71,8 @@ if __name__ == "__main__":
         recent_reviews = []
         helpful_reviews = []
         for i in range(1, 11): 
+            print(i)
+            sys.stdout.flush()
             recent_reviews += fetch_reviews(app_data['id'], page=i)
             helpful_reviews += fetch_reviews(app_data['id'], sortBy='mostHelpful', page=i)
 
