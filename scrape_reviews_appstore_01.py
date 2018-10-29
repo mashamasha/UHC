@@ -52,7 +52,7 @@ def fetch_reviews(app_id, country = 'us', sortBy = 'mostRecent', page = 1):
 # In[6]:
 
 
-with open("health_appstore.json", 'r', encoding='utf-8') as f:
+with open("data/health_appstore.json", 'r', encoding='utf-8') as f:
     apps = json.load(f)
     
 filtered_apps = [ app for app in apps['results'] 
@@ -94,3 +94,5 @@ for app in filtered_apps[40:42]:
 with open('appstore_metadata_and_reviews.json', 'w', encoding='utf-8') as f:
     f.write(json.dumps(app_metadata, ensure_ascii=False))
 
+
+print("DONE!")
