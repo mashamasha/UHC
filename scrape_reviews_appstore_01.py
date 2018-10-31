@@ -30,15 +30,19 @@ def fetch_reviews(app_id, country = 'us', sortBy = 'mostRecent', page = 1):
     
     reviews = []
     for review in reviews_list:  # Gather data from each review and put into a list.
-        reviews.append({'title': review['title'],
-                       'author': review['author']['name'],
-                       'authorUrl': review['author']['uri'],
-                       'rating': review['im:rating'],
-                       'date': review['updated'],
-                       'voteSum': review['im:voteSum'],
-                       'voteCount': review['im:voteCount'],
-                       'content': review['content'][0]['#text'].replace('\n', ' ')
-                      })
+        try:
+            reviews.append({'title': review['title'],
+                           'author': review['author']['name'],
+                           'authorUrl': review['author']['uri'],
+                           'rating': review['im:rating'],
+                           'date': review['updated'],
+                           'voteSum': review['im:voteSum'],
+                           'voteCount': review['im:voteCount'],
+                           'content': review['content'][0]['#text'].replace('\n', ' ')
+                          })
+        except:
+            continue
+
     return reviews
 
 
@@ -67,16 +71,19 @@ if __name__ == "__main__":
 
     for app in apps:
         # Get app metadata
-        app_data = {'name': app['trackName'],
-                    'id': app['trackId'],
-                    'url': app['trackViewUrl'],
-                    'price': app['price'],
-                    'avgUserRating': app['averageUserRating'],
-                    'userRatingCount': app['userRatingCount'],
-                    'currentVersionReleaseDate': app['currentVersionReleaseDate'],
-                    'description': app['description'].replace('\n', ' ')
-                    }
-        print(app_data['name'])
+        print(app['trackName'])
+        try:
+            app_data = {'name': app['trackName'],
+                        'id': app['trackId'],
+                        'url': app['trackViewUrl'],
+                        'price': app['price'],
+                        'avgUserRating': app['averageUserRating'],
+                        'userRatingCount': app['userRatingCount'],
+                        'currentVersionReleaseDate': app['currentVersionReleaseDate'],
+                        'description': app['description'].replace('\n', ' ')
+                        }
+        except:
+            continue
         
         # Get most recent and most helpful reviews (separately) for app (up to 500)
         # NOTE: If the app does not have many reviews, the same reviews may be included in both recent
