@@ -1,6 +1,7 @@
 import json
 import os
 import requests
+import sys
 import xmltodict
 
 from collections import Counter
@@ -41,18 +42,30 @@ def fetch_reviews(app_id, country = 'us', sortBy = 'mostRecent', page = 1):
     return reviews
 
 
+def fetch_apps(terms: list, limit: int):
+    """Uses the iTunes store search API to get metadata for apps.
+    
+    terms: A list of terms to search (ie. ["Medical", "Personal", "Health"])
+    limit: Number of apps to return (max 200)
+    """
+    
+    url = "https://itunes.apple.com/search?media=software&entity=software" \
+        "&term=%s&limit=%s" % ("+".join(terms),
+                               limit)
+            
+    r = requests.get(url)
+    return r.text
+
 
 if __name__ == "__main__":
+    apps = fetch_apps(["Medical", "Personal", "Information"], 200)
 
-    with open("data/healthfitness_appstore_200.json", 'r', encoding='utf-8') as f:
-        apps = json.load(f)
-        
-    filtered_apps = [ app for app in apps['results'] 
-                     if app['primaryGenreName'] == 'Health & Fitness' ] # Filter out all non-Health&Fitness apps.
+    #filtered_apps = [ app for app in apps['results'] 
+    #                 if app['primaryGenreName'] == 'Health & Fitness' ] # Filter out all non-Health&Fitness apps.
 
     app_metadata = []
 
-    for app in filtered_apps:
+    for app in apps:
         # Get app metadata
         app_data = {'name': app['trackName'],
                     'id': app['trackId'],
@@ -72,7 +85,6 @@ if __name__ == "__main__":
         helpful_reviews = []
         for i in range(1, 11): 
             print(i)
-            sys.stdout.flush()
             recent_reviews += fetch_reviews(app_data['id'], page=i)
             helpful_reviews += fetch_reviews(app_data['id'], sortBy='mostHelpful', page=i)
 
@@ -80,7 +92,7 @@ if __name__ == "__main__":
         app_data['helpful_reviews'] = helpful_reviews
         app_metadata.append(app_data)
 
-    with open('appstore_metadata_and_reviews_200.json', 'w', encoding='utf-8') as f:
+    with open('appstore_metadata_and_reviews_health+personal+information_200.json', 'w', encoding='utf-8') as f:
         f.write(json.dumps(app_metadata, ensure_ascii=False))
 
     print("DONE!")
