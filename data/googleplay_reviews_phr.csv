@@ -1,4 +1,4 @@
-name,id,title,author,authorId,rating,date,voteSum,voteCount,content
+name,id,title,author_name,author_uri,rating,date,voteSum,voteCount,text
 UPMC Health Plan,com.upmc.healthplan,,Noah Camp,107612558926338329616,5,2018-10-30 12:15:37,,,"This app is very useful and works well. Be sure you made a MyHealth OnLine account through a browser first, then use that account you created at the Login on the Application."
 UPMC Health Plan,com.upmc.healthplan,,becky sowers,112619492728795859109,1,2018-10-24 19:00:34,,,I couldn't even create an account. Keeps saying there is an error
 UPMC Health Plan,com.upmc.healthplan,,Jo Wilkens,105213834612835862646,1,2018-04-12 17:45:25,,,"So, tried to register and just got an error message saying that what I typed in doesn't match their records. I checked, checked and rechecked the member number to make sure I typed it correctly and I did. Obviously I know my birthdate & soc info, which means that either the info is wrong in their end or the app isn't functioning properly. Here's the kicker though... There's no way to troubleshoot or reach out to anyone to get answers and/or get things fixed. Ridiculous waste of time."
@@ -1520,3 +1520,234 @@ Medical Records App,com.cliniconline,,Nathan Nate,100075228121780735120,5,2017-1
 Medical Records App,com.cliniconline,,SHUBHA BENIL,112235869727397518526,4,2018-05-05 01:29:39,,,It would be so useful if we could customise the notes template to add info. Format differs for each speciality.
 Medical Records App,com.cliniconline,,A Google user,109511903467046512746,5,2018-10-06 06:41:03,,,easy to usr. contains alot of my needs
 Medical Records App,com.cliniconline,,haytham dahb,106631511776559648973,5,2018-10-12 22:44:31,,,I want
+healow,com.ecw.healow,,Blaq Ops,101674170124806785595,5,2018-11-19 17:46:55,,,Great app your info at you fingertips
+healow,com.ecw.healow,,Jeffrey Johnston,110794092096491081705,4,2018-11-19 16:52:33,,,"The type style should be changed, some characters are hard to see and recognize. But otherwise it seems to be a wonderful site and easy to use."
+healow,com.ecw.healow,,A Google user,111447538374096112911,2,2018-11-19 16:29:02,,,Will not allow me to book my appointment.
+healow,com.ecw.healow,,A Google user,110882909570435565469,1,2018-11-19 16:13:48,,,The app isn't much help at all for managing appointments or meds
+healow,com.ecw.healow,,Linda Wilson,103709449357082017290,5,2018-11-19 16:00:55,,,I love IT just started using it the more I use the more I like
+healow,com.ecw.healow,,Margarette Rivenbark,116247842038610891658,5,2018-11-19 15:54:04,,,App is easy to use
+healow,com.ecw.healow,,se mu,114923864452332031907,5,2018-11-19 15:32:22,,,Nice and very useful app. Easy to interact with Dr's office. Important application for patients of all ages.
+healow,com.ecw.healow,,Jim Harman,102145128116610144728,5,2018-11-19 13:58:26,,,"This app makes finding and managing my medical records, prescriptions and appointments very easy."
+healow,com.ecw.healow,,Sara Blacher,101936486933186865748,5,2018-11-19 11:01:32,,,Helpful
+healow,com.ecw.healow,,Ricky Snipes,101804794141592526644,5,2018-11-19 08:25:16,,,That help me much to remind future
+healow,com.ecw.healow,,Brittany Terry,104185811923325813535,1,2018-11-19 05:04:12,,,It truly sucks.... Cant make appointments on app. Have to call and wait on line to book appointments with primary doctor.
+healow,com.ecw.healow,,Gabriela Rivera,114091550719128653272,5,2018-11-19 03:51:06,,,Love it!!
+healow,com.ecw.healow,,John Tompkins,102805256834488017378,5,2018-11-18 17:31:34,,,This is so helpful to be able to get in touch with my doctor
+healow,com.ecw.healow,,Alex Hoffmann,102619113517523152642,2,2018-11-18 04:49:04,,,Very slow... takes forever to load one result.
+healow,com.ecw.healow,,adriver231,111928350706214174339,5,2018-11-18 04:27:51,,,Love it.
+healow,com.ecw.healow,,A Google user,108985362034187406131,1,2018-11-17 23:06:47,,,I am not very computer friendly but this is very very difficult. I have tried and tried and I get nothing.
+healow,com.ecw.healow,,A Google user,107579941457941473096,5,2018-11-17 19:13:44,,,I love that I can have all of my health info at my finger tips!!
+healow,com.ecw.healow,,Joseph L Medeiros,110246082423699079395,4,2018-11-17 18:38:53,,,Good application to keep your health in check
+healow,com.ecw.healow,,LYNELL Gray,112421958277553720999,4,2018-11-17 17:04:39,,,Convenient
+healow,com.ecw.healow,,Allegra Long,114651929097155222572,5,2018-11-17 14:08:41,,,"Very informative, very easy to use. A great way to continue to build a great relationship with your Healthcare Provider!"
+healow,com.ecw.healow,,Fernando Carrillo,104180995939198039270,5,2018-11-17 13:45:28,,,Tells you what you need to know
+healow,com.ecw.healow,,Tricia Taylor,101588465320909474941,5,2018-11-17 12:55:25,,,Love this app helps me get to the dr faster
+healow,com.ecw.healow,,Stacey Purnell,107662730950079041127,5,2018-11-17 01:36:55,,,I really do love this app I can look at my results!!!
+healow,com.ecw.healow,,A Google user,107666410467987964718,5,2018-11-17 01:22:54,,,Love it
+healow,com.ecw.healow,,Nadia Griffith,116673946306243784569,5,2018-11-17 00:24:08,,,"I love the fact that I am able to communicate with my doctor at any time and track my progress and vital between appointments, which is uploaded to my file!"
+healow,com.ecw.healow,,A Google user,110205902006937512205,5,2018-11-16 23:35:25,,,Easiest way ever to keep up with health maintenance.
+healow,com.ecw.healow,,A Google user,109411736777067543434,4,2018-11-16 23:07:36,,,"Nice app, I can link multiple accounts and providers in the app which is convenient. It's seems like a simple app, no extras which is not a bad thing. Tech support was quick to respond on some initial linking issues. So far up and running."
+healow,com.ecw.healow,,A Google user,116012908857167979306,3,2018-11-16 21:51:26,,,Hard to send me messages to doctor
+healow,com.ecw.healow,,Chris Walsh,100937777262708854182,2,2018-11-16 20:09:20,,,"Fingerprint feature doesn't work right and it's super slow. Never loads right and have to scan my fingerprint multiple times in a single session. When first launched it should go to the home screen, not a random screen."
+healow,com.ecw.healow,,Whoiam Picazo,109578280536658477685,4,2018-11-16 19:57:29,,,The app could retrieve information faster but other than that issue it's ok.
+healow,com.ecw.healow,,Anne Hagan,100503153719188800895,5,2018-11-16 17:11:11,,,Love it!!
+healow,com.ecw.healow,,Amanda Outman,104399100406077141107,5,2018-11-16 14:35:19,,,Great way to connect with your Dr !
+healow,com.ecw.healow,,Dwayne Clayburn,108016947043097717155,4,2018-11-16 13:56:51,,,This app has help me out a lot keeping up with my meds putting in my request for refills and the ability to have my information at hand when i need it is a plus.
+healow,com.ecw.healow,,A Google user,109240953901647474798,5,2018-11-16 13:01:33,,,"Great app! I can Monitot my labs, contact my doctor without having to call office and leave a message. Love it."
+healow,com.ecw.healow,,A Google user,111056284817401494757,5,2018-11-16 09:25:45,,,It's very easy and quick to use.
+healow,com.ecw.healow,,Ronald Wright,100784206391752593636,5,2018-11-16 07:10:46,,,Great app. Masterful
+healow,com.ecw.healow,,David Ferrel,108929743501551106090,3,2018-11-16 04:28:35,,,Would be better if it supported scheduling
+Sharecare,com.sharecare.realgreen,,trina Ruffin,107261926872328566720,2,2018-11-15 03:21:26,,,IT KEEPS FREEZING UP
+Sharecare,com.sharecare.realgreen,,Hayes Denise,108018092975465058351,5,2018-11-14 00:50:04,,,This is my lifesaver.
+Sharecare,com.sharecare.realgreen,,A Google user,116268645819784103293,4,2018-11-12 15:11:40,,,If someone is willing to teach then it's Ok? And if not then we all mightes just B scrowed. Am I Right?.
+Sharecare,com.sharecare.realgreen,,A Google user,117840497371110158335,5,2018-11-10 13:23:10,,,AWESOME
+Sharecare,com.sharecare.realgreen,,Kristian Krause,104854368666501709084,3,2018-11-08 11:55:04,,,It's ok. Would be better if I could link my Samsung watch.
+Blue Shield of California,com.blueshieldca.prod,,Oswaldo Lavenant,106731364443968307667,4,2018-11-19 17:27:40,,,Needs doctor appointment alerts.
+Blue Shield of California,com.blueshieldca.prod,,Shannon Tellez,103588077053947593439,5,2018-11-19 16:52:00,,,Super easy to use!
+Blue Shield of California,com.blueshieldca.prod,,Erica Torres,103004706470291122865,5,2018-11-11 01:07:16,,,Great
+Blue Shield of California,com.blueshieldca.prod,,A Google user,107148544783148339023,5,2018-11-10 15:05:41,,,"A good APP, when it works."
+myCigna,com.cigna.mobile.mycigna,,A Google user,116546911431410911126,5,2018-11-19 18:47:43,,,Love it
+myCigna,com.cigna.mobile.mycigna,,Queenova,102690809856919951490,5,2018-11-19 13:36:37,,,It gives accurate updated information
+myCigna,com.cigna.mobile.mycigna,,Steven Babula,110426905894719192840,1,2018-11-19 05:18:05,,,"The app used to work great but now it seems that the finger print scanner doesn't work, I can't access my account, and when trying to submit feedback it gets stuck on a blank screen with just a spinner."
+myCigna,com.cigna.mobile.mycigna,,Krista Reth,113318748440858586652,5,2018-11-19 02:50:23,,,Makes my confusing insurance not so confusing 🤔
+myCigna,com.cigna.mobile.mycigna,,Terry Monroe,117391979795652710890,5,2018-11-18 22:37:14,,,Great app
+myCigna,com.cigna.mobile.mycigna,,Rat Eldon,112584790926372377381,1,2018-11-18 14:31:43,,,Nothing would load so called support and was told my policy wasn't supported by the app?
+myCigna,com.cigna.mobile.mycigna,,A Google user,116831263427026090885,5,2018-11-17 18:46:24,,,Great for keeping my dentist in check 😎
+myCigna,com.cigna.mobile.mycigna,,*We The People*,101299074335372040376,4,2018-11-17 15:27:15,,,Works well. Easy to manage.
+myCigna,com.cigna.mobile.mycigna,,Jerry Martin,115381366481760276948,5,2018-11-17 01:34:57,,,Cool
+myCigna,com.cigna.mobile.mycigna,,Priscilla Dillard,101757714789260631798,5,2018-11-17 01:31:16,,,Good to know information on it
+myCigna,com.cigna.mobile.mycigna,,Monika Balint,102319286587467573489,5,2018-11-16 21:06:45,,,Great tool!
+myCigna,com.cigna.mobile.mycigna,,Eric Lombardi,116616000192333725129,4,2018-11-16 10:07:20,,,Lots of info. Works well
+myCigna,com.cigna.mobile.mycigna,,Patrick Rivera,103939787807866638067,5,2018-11-16 03:38:51,,,Great.
+myCigna,com.cigna.mobile.mycigna,,A Google user,112383916510710249370,5,2018-11-16 02:45:20,,,Good apps
+myCigna,com.cigna.mobile.mycigna,,Cruz Ramos,111504817575128885249,5,2018-11-16 00:55:56,,,I love it
+myCigna,com.cigna.mobile.mycigna,,Keon Washington,117394468266855640173,5,2018-11-15 23:45:53,,,Viewing health benefits and doing assessments are convenient
+myCigna,com.cigna.mobile.mycigna,,Jermeah,118243960069666403770,5,2018-11-15 22:20:08,,,So far so good. Even can choose a provider on this app with all the hassle of calling around for one.
+myCigna,com.cigna.mobile.mycigna,,Ray Ng,113641750519379729057,5,2018-11-15 06:55:54,,,Easy to navigate
+myCigna,com.cigna.mobile.mycigna,,Trevor Jones,110449394493562781221,5,2018-11-15 03:13:10,,,Does what I need it to do plus more
+myCigna,com.cigna.mobile.mycigna,,Rena Clark,115899567288180193373,5,2018-11-15 00:56:03,,,I love it
+myCigna,com.cigna.mobile.mycigna,,Kristi Johnson,102160154174195750400,5,2018-11-14 21:18:39,,,Easy to use
+myCigna,com.cigna.mobile.mycigna,,GARRETT MICHAEL WITT,114374202155176277835,5,2018-11-14 20:04:43,,,Everything in one place
+myCigna,com.cigna.mobile.mycigna,,Sonja McInvale,103458886379424042063,5,2018-11-14 16:00:29,,,Love that I can all up coverage anytime
+myCigna,com.cigna.mobile.mycigna,,Raina U,115625886843724531206,1,2018-11-14 09:47:00,,,"App is faulty. Asks me to login with my fingerprint, the same one I did yesterday. But today it does not work. Unreliable and a complete waste of time. Back to the drawing board with this one. Waste of space on my phone. Uninstalling now. Unfortunately the website isn't any better."
+myCigna,com.cigna.mobile.mycigna,,Brian Turner,110783358475732699388,1,2018-11-14 03:56:56,,,Does fingerprint access only work for specific manufacturer devices? Is OnePlus not one of them?
+myCigna,com.cigna.mobile.mycigna,,Rachael Scherdin,103010905925290401289,3,2018-11-13 13:41:17,,,"Would be better if log in could use samsung pass & access to all history, not just recent."
+myCigna,com.cigna.mobile.mycigna,,A Google user,112341349021182470715,5,2018-11-13 00:33:29,,,Awesome. Ez to use
+myCigna,com.cigna.mobile.mycigna,,Steve Perry,111580098539066197380,5,2018-11-12 22:30:54,,,Love this app. Cigna has great insurace as well. Yay
+myCigna,com.cigna.mobile.mycigna,,Michael Bitterman,115609498535582887493,5,2018-11-12 17:04:45,,,Easy to use
+myCigna,com.cigna.mobile.mycigna,,Sun Roof,100058127792271548061,1,2018-11-12 05:13:55,,,"Home pharmacy used to work well, now it just buffers, and then a blank screen. I will stick with the desktop version, and delete this app"
+myCigna,com.cigna.mobile.mycigna,,rizwan ahmed,101987916338836146276,1,2018-11-12 05:03:42,,,Use less
+myCigna,com.cigna.mobile.mycigna,,Yobi Giubi,112080184464319526755,5,2018-11-11 19:16:58,,,Love this app very nice
+myCigna,com.cigna.mobile.mycigna,,Saundra Talley,100836235595532884397,5,2018-11-11 13:02:45,,,All sorts of info is at your fingertips
+myCigna,com.cigna.mobile.mycigna,,Todd Davis,117465292756445923743,5,2018-11-11 01:29:02,,,I need this app for keeping track of financial responsibilities. Best way to help me meet a close budget.
+Medfusion Plus,com.medfusion.claire,,Libby Ramsey,104223958436715660038,2,2018-11-15 19:21:18,,,Most all service dates ne updated in a more timely manner. Seeing the Documents from the office visits are very important . No documents are available . Many of the medications have been discontinued yet still show as active.
+Anthem Anywhere,com.wellpoint.consumer.ABCBS,,Nancy Michael,112162152042013860372,1,2018-11-19 15:25:29,,,Cant log in
+Anthem Anywhere,com.wellpoint.consumer.ABCBS,,Ashley Riggs,111055652192810143921,1,2018-11-16 22:30:32,,,"I never even got to sign in it keeps spinning and spinning. I literally let it sit there for 10 minutes and it never signed on. I really wanted this because I thought it would be convenient to have it on my phone, but I uninstalled it."
+Anthem Anywhere,com.wellpoint.consumer.ABCBS,,E Ward,117799719673044372143,3,2018-11-16 01:02:39,,,Don't like having to log in every time I use the app. Kind of defeats the convenience as I don't carry around my lengthy list of passwords.
+Anthem Anywhere,com.wellpoint.consumer.ABCBS,,A Google user,110035472792897084710,1,2018-11-15 04:58:05,,,"App refuses to let you sign in!! It keeps showing the ""we are ready to help"" balloon and I click on ok and it just pops up again..."
+Anthem Anywhere,com.wellpoint.consumer.ABCBS,,Jennifer Martinez,104774832224480150720,1,2018-11-14 17:55:29,,,Does not have option to view ID card or information that is actually needed.
+Anthem Anywhere,com.wellpoint.consumer.ABCBS,,C Alger,117564774917581796908,1,2018-11-13 20:12:25,,,I cant login or change my password. It keeps saying sorry try again soon
+Anthem Anywhere,com.wellpoint.consumer.ABCBS,,A Google user,109203817872217586050,2,2018-11-13 19:33:49,,,After installing I was unable to get access. Called tech support. I was told to call back in one hour. I have been calling for days with no success.
+Anthem Anywhere,com.wellpoint.consumer.ABCBS,,Harsh Tanna,117303759222603614199,1,2018-11-13 15:52:45,,,It only shows vision id card and not able to send messages to support through app. Useless app.
+Anthem Anywhere,com.wellpoint.consumer.ABCBS,,Tracy Kerns,107536872116676000638,1,2018-11-13 12:26:44,,,Can not access my information
+Anthem Anywhere,com.wellpoint.consumer.ABCBS,,Craig Martin,111828170594461326838,5,2018-11-09 02:08:24,,,"I think the negative reviews are unjustified. The app can be a bit sluggish, but has a very nice interface and is very easy to use."
+FitnessSyncer,com.fitnesssyncer.fitnesssyncer_for_samsung_health,,M. Y.,104736937972836633089,1,2018-11-19 06:13:49,,,Why is Huawei Health not supported⁉️ This is so disappointing❗
+FitnessSyncer,com.fitnesssyncer.fitnesssyncer_for_samsung_health,,Cathy Rees,111135119241885101245,5,2018-11-15 20:36:27,,,"Bugs are to be expected, but after some very quick and painless communication with the developer, the problems I was having were fixed in literally minutes. Quick and effective support counts for so much! I can finally sync my Garmin to Google fit. Thank you"
+FitnessSyncer,com.fitnesssyncer.fitnesssyncer_for_samsung_health,,Nia Evans,104853187554484444426,1,2018-11-14 08:30:07,,,Tried for a few days to get step data from garmin connect into google fit but nothing happens
+FitnessSyncer,com.fitnesssyncer.fitnesssyncer_for_samsung_health,,Andrew McNeil,111827607850507999723,1,2018-11-13 13:48:08,,,Never could get it to sync my Garmin watch to Samsung Health. I opened a ticket and was told to turn off the automatic activity detection in Samsung Health - that just made the situation worse. Now when I try to upload to Samsung Health by hitting activity I get a Samsung Health screen and it never allows it to upload and the ticket response has been terrible. Don't be foolish enough to get Fitness Syncer Pro
+FitnessSyncer,com.fitnesssyncer.fitnesssyncer_for_samsung_health,,John Hopkins,108118822807766899496,4,2018-11-09 03:59:32,,,"I'm not sure why this app is getting so many bad reviews but I enjoy it's use. It's simple and straightforward. Add your services source(s) and then tell it the destination services. It then syncs and you're good to go. At least, it was that simple for me syncing runkeeper to Strava."
+Teladoc,com.teladoc.members,,Joshua Kirtley,110293624614491210104,5,2018-11-19 17:58:32,,,Great app
+Teladoc,com.teladoc.members,,Sarah Zurcher,116908051284846514804,5,2018-11-19 17:40:52,,,Good app. Saves a trip to the MD for a simple refill.
+Teladoc,com.teladoc.members,,Adam Kern,113361932297392821904,5,2018-11-19 16:43:55,,,Strep Throat
+Teladoc,com.teladoc.members,,Julia Bradley,104836812282068332838,5,2018-11-19 16:36:58,,,So far so good. Set up my account and we'll see how the first visit goes.
+Teladoc,com.teladoc.members,,Sandra Shaw,113794259981813286318,5,2018-11-19 14:40:28,,,Wonderfully convenient and easy to use
+Teladoc,com.teladoc.members,,Kelly Bailey,106137859194503202265,5,2018-11-19 14:38:49,,,"Easy to setup, easy to use"
+Teladoc,com.teladoc.members,,Brandon Hoeksema,101591218022261971460,5,2018-11-19 14:30:45,,,"Love being able to see a doctor from home, particularly when I think I know what's wrong and just need a prescription."
+Teladoc,com.teladoc.members,,Phillip Bailey,116724720651313440057,5,2018-11-19 13:55:06,,,Great so far
+Teladoc,com.teladoc.members,,Georgia Ford,103314566691658906530,5,2018-11-19 06:17:42,,,Great app and service
+Teladoc,com.teladoc.members,,Steve Schoessler,101093085500030553852,5,2018-11-19 05:17:57,,,Better than the website.
+Teladoc,com.teladoc.members,,Daphne Webb,103804368806575775879,5,2018-11-19 02:14:45,,,"Best way to get what I need without a doctor appointment, sitting with contagious people, or getting out when I don't feel good for my repeat seasonal symptoms"
+Teladoc,com.teladoc.members,,Jill Lamb,100799398749239080612,5,2018-11-18 23:48:52,,,Sure beats going to the doctor.
+Teladoc,com.teladoc.members,,A Google user,101405545042996501318,5,2018-11-18 22:20:48,,,Quick and Simple
+Teladoc,com.teladoc.members,,Hallie Houston,110434070230893462257,5,2018-11-18 20:24:35,,,So helpful! Thanks!
+Teladoc,com.teladoc.members,,Teresa Rodriguez,114300089922419141800,5,2018-11-18 19:52:38,,,Great idea !
+Teladoc,com.teladoc.members,,Giang Vu,102317720673720862120,1,2018-11-18 18:18:43,,,Great apps.. Easy to use.
+Teladoc,com.teladoc.members,,Indya Gomes,117170181677800284389,5,2018-11-18 17:54:47,,,Doctors are always kind and knowledgeable. It has saved me time and money. Im happy to have a Teladoc available to me at any time.
+Teladoc,com.teladoc.members,,Gettie Blevins,112787601928928869797,4,2018-11-18 17:51:15,,,Always asks to set up a pin and I already have many times.
+Teladoc,com.teladoc.members,,Stacy Poff,108589917873159768619,5,2018-11-18 17:14:29,,,Love the fact I don't have to drive into the doctors. These doctors are all very nice and explain things very well
+Teladoc,com.teladoc.members,,Carrie Warren,104201173026985970317,4,2018-11-18 16:26:46,,,I would give it a 5 star however the ability to add photos is not working.
+Teladoc,com.teladoc.members,,Katari Carter,101163242734760566402,5,2018-11-18 16:21:36,,,First time using this app but seems like a good app to use..
+Teladoc,com.teladoc.members,,James wilson,100606728983569916801,5,2018-11-18 14:45:09,,,Awesomeness
+Teladoc,com.teladoc.members,,A Google user,116603289292792215991,5,2018-11-18 14:42:39,,,Simple app
+Teladoc,com.teladoc.members,,R. Jenkins,103054454203266102974,5,2018-11-18 14:33:03,,,"I can't stress how convenient it is to consult with a physician and have a prescription sent to your local pharmacy. No waiting rooms full of germs, no paperwork... A simple phone call. Wow!"
+Teladoc,com.teladoc.members,,Latara Guyton,102813768232231278937,5,2018-11-18 13:43:46,,,Easy to use app!!
+Teladoc,com.teladoc.members,,Racheal Bennett,115560470068695439876,5,2018-11-18 13:03:04,,,"love it,easy to use"
+Teladoc,com.teladoc.members,,Stephanie Weston-Gomes,103837626949120936574,3,2018-11-18 12:57:17,,,Have to reset information a lot
+Aetna Mobile,com.usablenet.android.aetna,,Analiza Jeanbart,107926507019375993411,1,2018-11-19 16:57:54,,,"Fix your application startup, it's always stuck on the stupid pack arrow"
+Aetna Mobile,com.usablenet.android.aetna,,N W,100824714157122026288,1,2018-11-17 23:15:01,,,"Like everyone else has mentioned, it opens to a white screen with a non-functioning blue back arrow."
+Aetna Mobile,com.usablenet.android.aetna,,Evelyn Wai,109769320033022689556,1,2018-11-17 19:40:35,,,Blank white page. Doesn't open.
+Aetna Mobile,com.usablenet.android.aetna,,A Google user,116791833473256900558,1,2018-11-17 14:19:04,,,Didnt work
+Aetna Mobile,com.usablenet.android.aetna,,Barbara Kellems,118278704973686492348,1,2018-11-16 20:30:19,,,"App doesn't work, takes you to a white screen and then does nothing. I tried to uninstall and reinstall and same problem. Just a waste of space in your phone."
+Aetna Mobile,com.usablenet.android.aetna,,Robert Gollob,114410045044765188485,1,2018-11-16 19:35:40,,,Absolutely frustrating! Even saving the card for offline viewing it needs internet connection. I stood there for 5+ minutes trying to get my card to show up while checking in for an appt. Slow and way to data intensive
+Aetna Mobile,com.usablenet.android.aetna,,Mark Spencer,107672265402024532714,1,2018-11-16 18:47:13,,,App was pretty clunky when working and then went to access medical card which the app was then permanently stuck in each login. Would not waste time w/ app.
+Aetna Mobile,com.usablenet.android.aetna,,Pratik Bonde,108102958809694243299,1,2018-11-14 23:29:33,,,Doesn't work on one plus 6. Android P
+Aetna Mobile,com.usablenet.android.aetna,,Nicolas Greenfield,106851149112760784255,1,2018-11-14 14:27:46,,,Use the mobile website for your ID cards. App is useless.
+Aetna Mobile,com.usablenet.android.aetna,,Will Rehrig,101704012442925234616,1,2018-11-14 14:00:33,,,Can't sign in. This app almost never works.
+Aetna Mobile,com.usablenet.android.aetna,,Michael Krupnick,113434556248273567923,1,2018-11-14 03:06:56,,,It doesn't work. A single blank white page loads with a defunct back button!
+Aetna Mobile,com.usablenet.android.aetna,,Melissa Williams,107856182035884187248,1,2018-11-13 12:17:53,,,Well its has started not letting me do anything before it automatically shuts down. Fix this
+Aetna Mobile,com.usablenet.android.aetna,,Ore 'Naike,115255980348584410863,1,2018-11-12 19:27:08,,,I tried to register and it kept saying my email address wasn't valid lmao bye
+Aetna Mobile,com.usablenet.android.aetna,,Kishore potturi,107279894438829166457,1,2018-11-12 14:38:59,,,Never worked
+Aetna Mobile,com.usablenet.android.aetna,,A Google user,104780453839435950016,1,2018-11-12 14:21:04,,,Doesn't even open when launched.
+Aetna Mobile,com.usablenet.android.aetna,,Carlos Xavier Soto,100484093520214976398,1,2018-11-10 15:23:47,,,"Has never been able to launch. Google Pixel, pure latest Android."
+Aetna Mobile,com.usablenet.android.aetna,,Sachin Panicker,116405623290124817855,2,2018-11-10 05:00:02,,,"I never found out a way to exit the app. And I never found the same results as I try from web. Also the procedure list doesn't list everything as in web. It doesn't recognize the fingerprint sensor. On the top imof all this, I can see my I'd card :)"
+Aetna Mobile,com.usablenet.android.aetna,,damainevent7799,111099147797336954244,1,2018-11-08 21:11:05,,,Doesnt open
+Aetna Mobile,com.usablenet.android.aetna,,Jeff Naumoff,116618389403450829428,1,2018-11-08 17:58:27,,,"Can't even log in. Just a white screen with a ""back"" button that does nothing. Broken, useless, and unusable."
+Aetna Mobile,com.usablenet.android.aetna,,A Google user,117721462170761784629,1,2018-11-08 03:57:22,,,The app does not work at all. It opens a blank page and then does nothing.
+Aetna Mobile,com.usablenet.android.aetna,,David Cheadle,107038393020754441397,1,2018-11-08 03:34:49,,,This app is junk. Doesn't work at all
+Kaiser Permanente,org.kp.m,,Carolyn Garza,109904361792254660547,1,2018-11-19 18:14:04,,,I can't log in on my Android! 😠
+Kaiser Permanente,org.kp.m,,Alexander Agoreyo,114267695710229751346,4,2018-11-19 14:44:53,,,Too much statements before substance
+Kaiser Permanente,org.kp.m,,Florida King,106355140393315283413,5,2018-11-17 02:48:07,,,"I love Kaiser Permanente, because my Doctors and the whole staff makes me feel like . I'm part of the family, they go the extra mile to make sure. I have long-term Jeopardy of life. Thanks everyone."
+Kaiser Permanente,org.kp.m,,John Starr,113871537989006580872,3,2018-11-16 21:42:00,,,Need simpler instructions and more user friendly.
+Kaiser Permanente,org.kp.m,,Ajanna Lawson,106741004111581248186,1,2018-11-16 15:38:47,,,Unable to refill my prescriptions i can only check or send messages to doctor
+Kaiser Permanente,org.kp.m,,A Google user,102444131194300554250,4,2018-11-16 14:49:05,,,Needs a bit o work!!!!
+Kaiser Permanente,org.kp.m,,R Smith,115060470181553479819,4,2018-11-16 10:44:26,,,Convenient app!
+Kaiser Permanente,org.kp.m,,Ira Hancock,117150908554545409958,5,2018-11-13 23:54:27,,,Use it all the time it's great
+Kaiser Permanente,org.kp.m,,Ricky McCann,104779677271215726772,5,2018-11-13 13:24:52,,,Great app to keep track of your appointments.Mail order helps alot easy to use.
+Kaiser Permanente,org.kp.m,,Rogue Summers,104189811066600621258,5,2018-11-12 04:50:54,,,"*updated review* The issues have been addressed and fixed, it's back to the user friendly app I previously enjoyed! Used to love this app, but after the most recent update nearly everything is broken. The fingerprint feature didn't recognise my print and immediately logged me out. Then, it didn't recognise my correct password and made me change it. Now, I can't use it for anything except reading messages and checking status of things like prescriptions. Every other button, save for the first ones on the side menu, does not work. It did not used to be like this until the new update. Please fix this asap and I'll update my review. It was so user friendly before."
+Kaiser Permanente,org.kp.m,,Klaus Ritter,102011277813735963334,5,2018-11-10 17:05:10,,,Provides all I need to know about my health and the care available from Kaiser.
+Kaiser Permanente,org.kp.m,,Kiley Jones,115128291857958048345,1,2018-11-10 03:04:00,,,Update caused button break on Nexus 5x. None of the acceptance/chat/okay blue buttons actually work. Impossible to proceed in any fashion with latest update.
+Kaiser Permanente,org.kp.m,,NA Tilsen,118020460019825869066,4,2018-11-09 20:16:25,,,Moto X4 - works as expected. I was able to check messages and renew mail-order prescriptions.
+Kaiser Permanente,org.kp.m,,Donna Munsel,118131951093804095206,1,2018-11-09 13:54:59,,,"No option to enter my birthdate via pull-down menus, meaning I have to tap through the months one by one. Nearly 60 taps later....we are not off to a good start."
+Kaiser Permanente,org.kp.m,,Kate Harris,107035572010211247555,3,2018-11-08 21:14:32,,,"Great app, but some of the big, blue ""buttons"" don't work. Usually the ones at the bottom of the screen such as ""New Appointment"" or ""Submit."" Because of this, I am unable to use the app to make appointments or refill meds."
+MyHumana,com.humana.myhumana,,misstaminion,110446823279857474897,5,2018-11-19 01:43:08,,,This app is wonderful! I love it.
+MyHumana,com.humana.myhumana,,Rubys Way,111891818718252068532,5,2018-11-17 02:12:28,,,"I can go on ,check my dental eye care,and all my medical claims, what they pay for . Just had knee surgery, have not worried about ins I can see what is going on , Humana your the best, lucky to have you."
+MyHumana,com.humana.myhumana,,Zara Zee Zerby,117026086714881383584,2,2018-11-16 10:43:41,,,Access to mail order rx's
+MyHumana,com.humana.myhumana,,Mary B,110151094359156211355,1,2018-11-13 00:48:39,,,"I would not recommend Humana to anyone .customer is a joke I have filed several medical claims for reimbursement,And instead of paying me they paid provider when it was wrote on claims Do Not pay Provider .Then you have to file appeals and they still screwed up reimbursement and paid provider again on 15 claims. Humana does not offer free services they are charging you check your benefits statement."
+MyHumana,com.humana.myhumana,,A Google user,109777332976905530678,5,2018-11-12 14:21:11,,,Very convenient. No need for hard copies of the insurance cards
+MyHumana,com.humana.myhumana,,Linda O'Connor,103315010723161699722,1,2018-11-11 20:05:12,,,Cannot register entering all personal information correctly and still can't access. This is 5 time and don't have time to do this again uninstalled
+MyHumana,com.humana.myhumana,,A Google user,105866398602944203389,5,2018-11-09 03:07:08,,,Totally understandable. Great.👍
+"Accolade, Inc.",com.accolade.mobile.prod,,Leslie Michel,108245740783296596990,5,2018-11-16 22:26:48,,,Great to know a nurse is just a text away.
+"Accolade, Inc.",com.accolade.mobile.prod,,Linda Puleo,103811784828238820514,4,2018-11-13 01:39:12,,,I prefer this method over having to call in. I will be using this method going forward.
+FollowMyHealth®,com.jardogs.fmhmobile,,Candy Breeding,100651866263646987879,4,2018-11-19 20:34:47,,,Good App! It's Helpful!
+FollowMyHealth®,com.jardogs.fmhmobile,,A Google user,115034132113358173450,5,2018-11-19 20:24:58,,,Very helpful. I get test results right away.
+FollowMyHealth®,com.jardogs.fmhmobile,,betty harris,112193852853993149713,5,2018-11-19 19:53:57,,,It's a great app to be able to review your results and upcoming appointments
+FollowMyHealth®,com.jardogs.fmhmobile,,Toni Ridenour,115296907619783979456,4,2018-11-19 19:53:10,,,I think there should be a way for me to see the details of my appointments. What I'm being seen for.
+FollowMyHealth®,com.jardogs.fmhmobile,,sandra henderson,102409730376249734657,5,2018-11-19 19:46:51,,,Could have a way you can print out the doctors summary.
+FollowMyHealth®,com.jardogs.fmhmobile,,Roy Sanders,112379869260933594056,5,2018-11-19 19:32:01,,,Awesome
+FollowMyHealth®,com.jardogs.fmhmobile,,Dale Neal,100885023597748820004,5,2018-11-19 19:26:13,,,"A fantastic app. Make appointments, refill prescriptions and a lot more."
+FollowMyHealth®,com.jardogs.fmhmobile,,Melisa Nichols,115751296242598912059,5,2018-11-19 19:19:49,,,Love being able to email my doctors with any questions I have
+FollowMyHealth®,com.jardogs.fmhmobile,,Ramesh Ramji,106739753028611388834,5,2018-11-19 18:23:30,,,This is a great app. Thank you!
+FollowMyHealth®,com.jardogs.fmhmobile,,Chelsea Gramberg,109478976755788045925,5,2018-11-19 18:16:51,,,Great app!
+FollowMyHealth®,com.jardogs.fmhmobile,,G. Walker-Hill,113750491231916557019,4,2018-11-19 18:15:46,,,It's very useful
+FollowMyHealth®,com.jardogs.fmhmobile,,Ronel Bryant,105901522364336340130,4,2018-11-19 18:07:15,,,Great app!! It's easy to use!
+FollowMyHealth®,com.jardogs.fmhmobile,,Amber Bilodeau,113974365847461919547,5,2018-11-19 17:52:03,,,Wonderful tool to communicate with my Dr!! You need to expand to include other Drs and pharmacies!
+FollowMyHealth®,com.jardogs.fmhmobile,,Tamara Baynard,109738713323993811216,5,2018-11-19 17:51:56,,,I Love this portal because it gives all the information about your visit and it saves having to receive so much paper. I am happy to use it...
+FollowMyHealth®,com.jardogs.fmhmobile,,Michelle Nordahl,100216336020874251397,5,2018-11-19 17:45:23,,,It's so awesome to see your Heath records anytime you want to
+FollowMyHealth®,com.jardogs.fmhmobile,,A Google user,111608810933248349124,5,2018-11-19 17:28:55,,,Very convenient and informative. Love being able to review my medical records quickly and accurately.
+FollowMyHealth®,com.jardogs.fmhmobile,,A Google user,112907223487931158438,5,2018-11-19 17:22:36,,,Love having access to my health records
+FollowMyHealth®,com.jardogs.fmhmobile,,Regina Stewart,110983365605368220749,5,2018-11-19 17:21:17,,,Very informative. I love this app.
+FollowMyHealth®,com.jardogs.fmhmobile,,Dawn Swanson,111625030593278723459,5,2018-11-19 17:17:11,,,Love being able to get reminders of appointments and doctor notes so quickly!
+FollowMyHealth®,com.jardogs.fmhmobile,,Doug Whisman,109345205836129079568,5,2018-11-19 17:15:09,,,This has helped me make appnts and keep them
+FollowMyHealth®,com.jardogs.fmhmobile,,John Gutman,102079731906245518957,5,2018-11-19 17:08:44,,,This app is very simple and thorough. It keeps track of every aspect of my healthcare and seamlessly connects me to my doctor.
+FollowMyHealth®,com.jardogs.fmhmobile,,Gerard Frederique,105356858788239511613,5,2018-11-19 16:55:54,,,Gives me all functionality that I need at this time!
+FollowMyHealth®,com.jardogs.fmhmobile,,A Google user,116431847045339081260,5,2018-11-19 16:51:50,,,So professional and perfect we trust you and our life
+FollowMyHealth®,com.jardogs.fmhmobile,,Brenda Booze,108400959079259858005,5,2018-11-19 16:51:29,,,"Great way to keep in contact with your doctor or nurse about prescriptions or issues with your health in a quick and timely manner! And keep up to date on your bill. Just wish the mail your physician had an add a photo option, for skin issues and such."
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Hiawatha Phelps,109212800976991000467,2,2018-11-19 20:46:58,,,"It's an ok app, but the step counter is wrong. The number of steps it says I took is not matching up with Samsung health. That needs to be fixed and then it'll get 5 stars."
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Eliza Hatter,116506113437923053615,2,2018-11-19 20:18:55,,,It's not tracking like it did on my other phone.
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Muskan Kundra,109843622039228118293,3,2018-11-19 19:09:07,,,Recent update is not good ....i want d older one
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Alessandra Forti,100601573058950881632,2,2018-11-19 18:53:12,,,The old version was so much better.
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Gypsy Rose,112385967922971484630,3,2018-11-19 18:26:03,,,Need to make it link with fitbit as well as Samsung health
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Anneliese Mondorf,111126947606841890310,1,2018-11-19 17:49:12,,,"Google fit is the absolute worst app you could get for tracking your steps. It doesn't log thousands of steps. I spent the majority of my day walking around DC. Walked from the Smithsonian museum of Natural History to the Lincoln memorial then to the White House. A couple of miles in total. My other app logged 20k steps for the day; Google fit... less than 6k. Also, ever since DST it's been a full day behind. This is a garbage app do not waste your time or memory space on this awful app."
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,will walkr,102006628042893656703,2,2018-11-19 17:29:27,,,"It worked great for a long time. It even integrated with my smart watch. Since the last major update, it has ceased recording data. My device is several years old, so that may be part of the problem. But I've tried uninstalling re-installing, installing Google Wear after Google Fit and vice versa. I've tried booting one device then the next, most of the usual fixes. Currently giving it another chance. But if it doesn't work then I just have to use another app."
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Sara Takashima,103674534114866853966,3,2018-11-19 16:22:19,,,The app doesn't keep up with my life...
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Ciaran Crean,109181731750281352912,1,2018-11-19 16:13:21,,,"How can I update the Google fit app on my smartwatch, I've the new app n phone and the old app on SmartWatch so obviously they not in sync... Melted"
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Nataraj Chakravarti,107904214787631414916,5,2018-11-19 15:10:46,,,Good tracking Application
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Thant Zin,100418454014874925565,5,2018-11-19 14:42:56,,,Great
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Sandy Nguyen,108062435690610338883,3,2018-11-19 14:26:42,,,It's ok. Simplified to the point of being almost useless. Points system is vague and unhelpful. Cannot display sleep or body measurement progress. Cannot log other body measurements such as body fat. Cannot look at sleep. Apple Health is a much better dashboard.
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Andre Larose,113130032282245085807,3,2018-11-19 13:48:43,,,"There is room for improvement. 1- add a place to enter your pulse when you enter your blood pressure. 2- let us choose the  Lbs or Kg when we enter the weight, some scales just give Kg or Lbs.  3- would be nice to add your own entries:     - O2 saturation     - Glucose level     - general mood     - which meds were taken      - which meals were eaten     - etc"
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Rithul R,111119202837204276408,1,2018-11-19 12:58:15,,,"During workout, keeps closing. Work out gone, everything gone. Even if it is put in ""Not Optimized"" Have some function to have it locked in memory atleast during workouts, ability to keep holding on to GPS as well. Maps get disturbed even if GPS on after a few minutes into workout"
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Amirullah Ali,111379236030809770202,2,2018-11-19 12:23:12,,,I miss Auto - Tracking feature. So less stars
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Shantanu Kulkarni,113903496676508489644,3,2018-11-19 12:06:15,,,Even when i delete unnecessary tracked activities The Total/Summay/Dashboard still includes deleted data. In general Total calculation is all messed up. Please rectify it otherwise app is best.
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,A Google user,106119999033325560056,5,2018-11-19 11:52:05,,,Absolutely love it
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,A Google user,106376784374106108051,3,2018-11-19 11:45:29,,,Since this app was updated I can't seem to do 10000 steps like I was before.Have been for 2 walks this morning and only covered just over one mile according to the app .Every time I come home and look at it I am disappointed.
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,mohit bang,107247704427798267468,5,2018-11-19 07:12:01,,,Nice
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Katie Marmolejo,113783172363588074188,1,2018-11-19 03:21:56,,,Hate that it doesn't sync with my Fitbit.
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Dàvid King,108835659275912247073,1,2018-11-19 03:10:26,,,Has trouble receiving info from Plex fit!
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,What if we all cared?,116857481420687108300,2,2018-11-19 03:07:41,,,"Worked great when I had Sprint, which was amazing as I had lousy service. Now I have Cricket, which uses AT&T signal and Fit app is useless . . HELP!!"
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Rajesh Shetty,100508169301066126565,4,2018-11-19 02:00:44,,,The average speed doesn't match the corresponding time and distance covered
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Pamela Thor,105285548585796596390,1,2018-11-19 01:17:51,,,Gets part way through the intro screens and gets stuck. Cant get it to work.
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Etienne Tse,100628813073426682125,2,2018-11-19 00:19:30,,,Always loading when opening the records and adding activity. Super slow. Please improve in the next updates.
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Dom,107247482232369066132,1,2018-11-18 23:40:25,,,Bring back step goals.
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Gareth Marshall,109546136401110473017,2,2018-11-18 22:15:48,,,"Has become too basic. interface is pretty ugly, where are all the other features as per previous versions?"
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,George Nichols,108378200028254770227,1,2018-11-18 21:52:36,,,How about a way to see how far you have walked over the course of a week. Like on vacation for instance. Data is missing for some days. Terrible app.
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,A Google user,110304088518904552001,5,2018-11-18 20:43:26,,,It doesn't always track all of your steps
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,A Google user,116962498885410881253,1,2018-11-18 19:28:47,,,"Stopped tracking steps, basically useless"
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Playermario The gamer,103070721467035036936,1,2018-11-18 19:09:40,,,Wouldn't let me past the default goal setting at the app setup
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,kalidas Naidu,111702677311038246028,5,2018-11-18 18:23:55,,,Good
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Amir Virani Jr,108488111651518396003,3,2018-11-18 17:55:12,,,"I have a LG g watch and ever since the new update, it doesn't work on my watch. Then another update came out and it worked. Then I got a new phone and I g have the same problem. Please fix it. Thanks"
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,vikas dhull,101372763160879333033,1,2018-11-18 17:03:52,,,google fit is not syncing steps data correctly from my MI fit band/app.
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,Mohit G,107526919134556209809,1,2018-11-18 15:03:20,,,This app does not work property on my one plus phone. Android 9. It does not update activity in app till 24 hours or more.
+Google Fit: Health and Activity Tracking,com.google.android.apps.fitness,,sagar suryawanshi,101956979010176828886,1,2018-11-18 14:54:32,,,I want to add leadboard How?
+Medical Records App,com.cliniconline,,Abod Osama,115080537418668508998,4,2018-11-19 06:49:38,,,A great useful application but how can I transmit my data to other devices
+Medical Records App,com.cliniconline,,Agnes Novita,110614731832618616830,5,2018-11-18 03:48:23,,,"Simple, easy, and useful"
+Medical Records App,com.cliniconline,,Alfredo Baruc,116943082422817884463,5,2018-11-13 05:14:25,,,Very easy to use and is what I am looking for in recording my medical history.
