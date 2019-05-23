@@ -2,6 +2,13 @@
 
 This repository contains code for 2 projects we worked on during our internship as Data Scientists at UnitedHealth Group
 
+
+__Contributors__:
+
+* [Tomohiko Ishihara](https://github.com/ttishihara/)
+* [Maria Vasilenko](https://github.com/mashamasha/)
+
+
 ------------------------------------------------------------------
 ### Project 1
 ### Analysis of users'reviews of Personal Health Record (PHR) mobile applications: Topic Modeling
@@ -14,7 +21,6 @@ As a result, we determinmed what features users are talking about most and provi
 __Data:__
 We collected 6118 reviews across 25 Health and PHR apps (e.g., Aetna Mobile, Kaiser Permanente, Anthem Anywhere etc.) gathered from Apple Appstore and Google Play in a programmatic way. 
 
-6118 total user reviews  
 ------------------------------------------------------------------
 
 ### Project 2
@@ -29,10 +35,3 @@ We collected 2339 total user reviews across 5 DNA test health kits gathered from
 (23anMe, CellMaxLife, TellmeGen, Color Heriditary Cancer Test, Color Genetic Risk Test)
 
 ------------------------------------------------------------------
-
-__Contributors__:
-
-* [Tomohiko Ishihara](https://github.com/ttishihara/)
-* [Maria Vasilenko](https://github.com/mashamasha/)
-
-
