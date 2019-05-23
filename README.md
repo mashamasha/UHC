@@ -11,10 +11,10 @@ __Contributors__:
 
 ------------------------------------------------------------------
 ### Project 1
-### Analysis of users'reviews of Personal Health Record (PHR) mobile applications: Topic Modeling
+### Analysis of users' reviews of Personal Health Record (PHR) mobile applications: Topic Modeling
 
 The goal of this project was to identify the most desirable features of PHR mobile applications.
-We approached this task by collecting users' reviews,  splitting them into positive and negative and performing Topic Modeling (LDA) as implemented in Gensim.
+We approached this task by collecting users' reviews, splitting them into positive and negative reviews based on rating and performing Topic Modeling (LDA) as implemented in Gensim.
 
 As a result, we determinmed what features users are talking about most and provided recommendations to Marketing team on what features should be consider most important for developing its own PHR app.
 
